@@ -9,6 +9,8 @@ import ElementPlus from "element-plus";
 import "element-plus/dist/index.css";
 import "element-plus/theme-chalk/src/index.scss";
 import * as ElementPlusIconsVue from "@element-plus/icons-vue";
+// 阿里图标库
+import "./assets/aliIcontFont/iconfont.css";
 
 const app = createApp(App);
 // 全局注册图标
